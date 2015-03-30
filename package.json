@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "name": "com.iwanjunaid.pman",
+    "cordova_name": "PMan",
+    "platforms": [
+        "android"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.4.0"
+        }
+    ]
+}
